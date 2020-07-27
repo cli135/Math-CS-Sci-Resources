@@ -24,6 +24,9 @@ https://www.cemc.uwaterloo.ca/resources/potw.php
 https://cemc.uwaterloo.ca/contests/past_contests.html#euclid
 https://cemc.uwaterloo.ca/contests/preparation.html
 https://cemc2.math.uwaterloo.ca/contest/PSG/school/index.php
+
+
+
 Computer Science
 https://docs.google.com/spreadsheets/d/1cAEDkFOU05vGqWUssdB7qw8CjSNYu2EghhsIXvPZ5Fc/edit#gid=0
 Resources:
@@ -48,6 +51,10 @@ Textbooks and online courses (general, large coverage)
 https://runestone.academy/
 https://ocw.mit.edu/index.htm
 https://www.coursera.org/
+
+
+
+
 Science
 Chemistry
 https://www.acs.org/content/acs/en/education/students/highschool/olympiad/pastexams.html
